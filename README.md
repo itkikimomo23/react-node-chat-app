@@ -79,19 +79,3 @@
 <li> npm start </li>
 </ul>
 
-<h1> Team Members </h1>
-<ul> 
-<li> Mukul Jatav </li>
-</ul>
-
-
-<h2><i>Let's Connect</i></h2>
-<p align="left">
-    <a href="https://www.linkedin.com/in/mukul-jatav/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/mukul-jatav/" />
-    </a>
-</p>
-
-<h1> Show Your Support </h1>
-<h4> Give a ⭐️ if you like this project! </h4>
-
